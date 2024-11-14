@@ -1,12 +1,31 @@
 # Procesverslag
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
-
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
-
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
 
+
+WEEK 1 
+
+  1.1 LES/OEFENING
+    - Mijn HTML & CSS code voor Oefening 1
+    Link: "https://codepen.io/jvb_hva/pen/abePEdz?editors=1100"
+    
+  1.1.1 GELEERD
+    - Het onderdeel “var(.........)”
+	  Staat voor de waarde van een custom property, dat wist ik nog niet. 
+	  - Nu weet ik hoe ik moet refereren aan een custom property.
+    Het onderdeel “hsl(.........)”
+    Staat voor hue, saturation en lightness, dat wist ik niet. 
+    - Nu weet ik hoe ik moet refereren naar een van deze CSS functies.
+    Het onderdeel ‘--’ ook wel een property
+    Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes voor de naam van jouw property staan.
+    - Het onderdeel ‘skewy’ 
+    Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
+
+  1.2 LES/OEFENING
+    - Mijn HTML & CSS code voor Oefening 2
 
 
 
@@ -16,13 +35,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Jerry van Bussel
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw/Rood
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface
  
 </details>
 
