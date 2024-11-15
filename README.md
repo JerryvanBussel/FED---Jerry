@@ -14,20 +14,24 @@ WEEK 1
     
   1.1.1 GELEERD
     - Het onderdeel “var(.........)”
-	  Staat voor de waarde van een custom property, dat wist ik nog niet. 
+      Staat voor de waarde van een custom property, dat wist ik nog niet. 
 	  - Nu weet ik hoe ik moet refereren aan een custom property.
-    Het onderdeel “hsl(.........)”
-    Staat voor hue, saturation en lightness, dat wist ik niet. 
+    - Het onderdeel “hsl(.........)”
+      Staat voor hue, saturation en lightness, dat wist ik niet. 
     - Nu weet ik hoe ik moet refereren naar een van deze CSS functies.
-    Het onderdeel ‘--’ ook wel een property
-    Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes voor de naam van jouw property staan.
+      Het onderdeel ‘--’ ook wel een property
+      Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes voor de naam van jouw property staan.
     - Het onderdeel ‘skewy’ 
-    Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
+      Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
 
   1.2 LES/OEFENING
     - Mijn HTML & CSS code voor Oefening 2
 
+  1.3 LES/OEFENING
+    - Oefening: https://cssgridgarden.com/#nl (deze afgemaakt)
+    - Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
 
+    
 
 ## Jij
 
@@ -55,15 +59,16 @@ WEEK 1
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  Pagina 1: https://icon-amsterdam.com/nl/
+  Pagina 2: een product van deze webshop
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/home_icon_amsterdam" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="images/" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
