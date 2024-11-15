@@ -29,7 +29,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
 
   1.2 LES/OEFENING
-   
+  - Checklist gemaakt voor Icon Amsterdam
+  
   1.3 LES/OEFENING
   Oefening: https://cssgridgarden.com/#nl (deze afgemaakt)
   Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
