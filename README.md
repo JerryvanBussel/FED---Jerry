@@ -4,37 +4,40 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
+<!--> 
 
+  WEEK 1 
 
-<!--> WEEK 1 
-
-  1.1 LES/OEFENING
-  Mijn HTML & CSS code voor Oefening 1
-  Link: "https://codepen.io/jvb_hva/pen/abePEdz?editors=1100"
+    1.1 LES/OEFENING
+    Mijn HTML & CSS code voor Oefening 1
+    Link: "https://codepen.io/jvb_hva/pen/abePEdz?editors=1100"
     
-  1.1.1 GELEERD
-  
-  Het onderdeel “var(.........)”
-  Staat voor de waarde van een custom property, dat wist ik nog niet. 
-	Nu weet ik hoe ik moet refereren aan een custom property.
-  
-  Het onderdeel “hsl(.........)”
-  Staat voor hue, saturation en lightness, dat wist ik niet. 
-  Nu weet ik hoe ik moet refereren naar een van deze CSS functies.
-  
-  Het onderdeel ‘--’ ook wel een property
-  Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes vooral de naam van jouw property staan.
-  
-  Het onderdeel ‘skewy’ 
-  Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
+    1.1.1 GELEERD
+    
+    Het onderdeel “var(.........)”
+    Staat voor de waarde van een custom property, dat wist ik nog niet. 
+    Nu weet ik hoe ik moet refereren aan een custom property.
+    
+    Het onderdeel “hsl(.........)”
+    Staat voor hue, saturation en lightness, dat wist ik niet. 
+    Nu weet ik hoe ik moet refereren naar een van deze CSS functies.
+    
+    Het onderdeel ‘--’ ook wel een property
+    Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes vooral de naam van jouw property staan.
+    
+    Het onderdeel ‘skewy’ 
+    Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
+    1.2 LES/OEFENING
+    - Checklist gemaakt voor Icon Amsterdam
 
-  1.2 LES/OEFENING
-  - Checklist gemaakt voor Icon Amsterdam
-  
-  1.3 LES/OEFENING
-  Oefening: https://cssgridgarden.com/#nl (deze afgemaakt)
-  Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
+    1.3 LES/OEFENING
+    Oefening: https://cssgridgarden.com/#nl 
+    Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
+    Oefening 2: link
+    Oefening 3: link
+    Oefening 4: link
 
+  Week 2
 <-->
 
 ## Jij
@@ -64,7 +67,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   Pagina 1: https://icon-amsterdam.com/nl/
-  Pagina 2: een product van deze webshop
+  Pagina 2: Een detail pagina van een product van Icon Amsterdam
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
