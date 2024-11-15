@@ -6,32 +6,35 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-WEEK 1 
+<!--> WEEK 1 
 
   1.1 LES/OEFENING
-    - Mijn HTML & CSS code voor Oefening 1
-    Link: "https://codepen.io/jvb_hva/pen/abePEdz?editors=1100"
+  Mijn HTML & CSS code voor Oefening 1
+  Link: "https://codepen.io/jvb_hva/pen/abePEdz?editors=1100"
     
   1.1.1 GELEERD
-    - Het onderdeel “var(.........)”
-      Staat voor de waarde van een custom property, dat wist ik nog niet. 
-	  - Nu weet ik hoe ik moet refereren aan een custom property.
-    - Het onderdeel “hsl(.........)”
-      Staat voor hue, saturation en lightness, dat wist ik niet. 
-    - Nu weet ik hoe ik moet refereren naar een van deze CSS functies.
-      Het onderdeel ‘--’ ook wel een property
-      Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes voor de naam van jouw property staan.
-    - Het onderdeel ‘skewy’ 
-      Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
+  
+  Het onderdeel “var(.........)”
+  Staat voor de waarde van een custom property, dat wist ik nog niet. 
+	Nu weet ik hoe ik moet refereren aan een custom property.
+  
+  Het onderdeel “hsl(.........)”
+  Staat voor hue, saturation en lightness, dat wist ik niet. 
+  Nu weet ik hoe ik moet refereren naar een van deze CSS functies.
+  
+  Het onderdeel ‘--’ ook wel een property
+  Als je een custom property maakt, moeten er altijd twee (‘--’) streepjes vooral de naam van jouw property staan.
+  
+  Het onderdeel ‘skewy’ 
+  Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
 
   1.2 LES/OEFENING
-    - Mijn HTML & CSS code voor Oefening 2
-
+   
   1.3 LES/OEFENING
-    - Oefening: https://cssgridgarden.com/#nl (deze afgemaakt)
-    - Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
+  Oefening: https://cssgridgarden.com/#nl (deze afgemaakt)
+  Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
 
-    
+<-->
 
 ## Jij
 
@@ -64,7 +67,7 @@ WEEK 1
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="images/home_icon_amsterdam" width="375px" alt="omschrijving van de pagina">
+  <img src="images/home_icon_amsterdam" width="375px" alt="Homepagina, Icon Amsterdam">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
