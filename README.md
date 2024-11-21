@@ -27,8 +27,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     
     Het onderdeel ‘skewy’ 
     Ik kende dit nog niet. Ik weet nu hoe ik een font/element kan transformeren in CSS.
+
     1.2 LES/OEFENING
-    - Checklist gemaakt voor Icon Amsterdam
+    - Checklist gemaakt voor Icon Amsterdam (website die ik na ga maken)
 
     1.3 LES/OEFENING
     Oefening: https://cssgridgarden.com/#nl 
@@ -38,6 +39,59 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
     Oefening 4: link
 
   Week 2
+
+    2.0 Hoorcollege: 
+    Oefening: 
+    
+    2.1  LES/OEFENING
+    Oefening 1: https://codepen.io/shooft/pen/bGPvJgb
+    Oefening 2: https://codepen.io/shooft/pen/GRbxLrz?editors=1100
+    Oefening 3: https://flukeout.github.io/ tot level 32
+
+    2.2 LES/OEFENING
+    Oefeningen: https://codepen.io/shooft/pen/JjQLVaB?editors=0110
+
+    Aantekeningen hamburger menu: 
+    Javascript:
+      const menuButton = document.querySelector("header > button");
+      const deNav = document.querySelector("nav");
+
+      menuButton.onclick = toggleMenu;
+
+      function toggleMenu(){
+      deNav.classList.add("toonMenu") 
+      }
+
+      // sluiten van het hamburger menu
+      const sluitButton = document.querySelector("nav button");
+      sluitButton.onclick = sluitMenu;
+
+      function sluitMenu(){
+      deNav.classList.remove("toonMenu")
+
+    CSS:
+      nav.toonMenu {
+      translate: 0;
+      } 
+
+      nav {
+      position:fixed;
+      inset: 0 0 0 0;
+      translate:100%;
+      transition:0.5s;
+      }
+    
+      header > button {
+      order:-1;
+      }
+
+      header {
+      display:flex;
+      justify-content:space-between;
+      align-items:center;
+      }
+
+
 <-->
 
 ## Jij
