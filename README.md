@@ -33,10 +33,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
     1.3 LES/OEFENING
     Oefening: https://cssgridgarden.com/#nl 
-    Oefening 1: https://codepen.io/shooft/pen/RwzxdJq
-    Oefening 2: link
-    Oefening 3: link
-    Oefening 4: link
+    Oefening 1,2,3 & 4: https://codepen.io/shooft/pen/RwzxdJq
+    Geleerd om gebruik te maken met een grid.
 
   Week 2
 
@@ -117,7 +115,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+  <summary>Ik ga een paar onderdelen van de website van Icon Amsterdam namaken.</summary>
 
   ### Je opdracht:
   Pagina 1: https://icon-amsterdam.com/nl/
@@ -173,7 +171,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
+  Code schrijven gaat goed, alleen moeilijk om dezelfde iconen te krijgen als de website die ik namaak. Dat is een moeilijk puntje en om deze waarschijnlijk straks goed op een rijtje te krijgen wordt ook een priegel werkje.
 
 
   ### Agenda voor meeting

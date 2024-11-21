@@ -1,8 +1,12 @@
-/**************/
-/* CSS REMEDY */
-/**************/
+
 *, *::after, *::before {
   box-sizing:border-box;  
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+* {
+	/* Lettertype */
+	font-family:Arial, Helvetica, sans-serif;
 }
 
 
@@ -10,21 +14,53 @@
 
 
 
-/*********************/
-/* CUSTOM PROPERTIES */
 /*********************/
 :root {
-	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	/* Start */
+	--color-text:#000000;
+	--color-background:#ffffff;
+
+	/* Header */
+	
+
+	/* Body */
+
+	/* Footer */
+	--footer-background:rgb(26 26 26);
+}
+
+nav {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+
+	background-color:var(--color-background);
+}
+
+nav a :nth-child(1){
+	width: 40px;
+	height: auto;
+	flex-grow: 1;
 }
 
 
+body {
+	
+	background-color:(var(--color-background));
+}
+
+
+footer{
+
+	background-color:var(--footer-background);
+}
 
 
 
 /****************/
-/* JOUW STYLING */
+/* JOUW STYLING 
+
+Vooral focussen op fonts
 /****************/
 
 /* jouw code */
