@@ -4,8 +4,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Nb. De standaardstructuur en de spartaanse opmaak van de README.md zijn helemaal prima. Het gaat om de inhoud van je procesverslag. Besteedt de tijd voor pracht en praal aan je website.
 Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard open zetten. Fijn om dat steeds voor de relevante stuk(ken) te doen.
 
-<!--> 
-
   WEEK 1 
 
     1.1 LES/OEFENING
@@ -64,7 +62,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
       const sluitButton = document.querySelector("nav button");
       sluitButton.onclick = sluitMenu;
 
-      function sluitMenu(){
+      function sluitMenu()
       deNav.classList.remove("toonMenu")
 
     CSS:
@@ -90,9 +88,25 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
       }
 
 
+    Week 3
+
+    2.1 LES/OEFENING
+    Gewerkt aan de website die ik coderend na moet maken.
+
+    2.2 LES/OEFENING
+    States oefening
+    - Link: https://codepen.io/shooft/pen/xxoJarO
+
+      li:nth-of-type(3):has(input[type="checkbox"]:checked) 
+      - Voor het aanspreken van een aangevinkte checkbox
+
+      li:nth-of-type(3) input[type="checkbox"] 
+      - Voor het aanspreken van de checkbox kleur als die aangevinkt wordt
+
+
 <-->
 
-## Jij
+## Jerry van Bussel
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
@@ -112,7 +126,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Je website
+## Icon Amsterdam
 
 <details open>
   <summary>Ik ga een paar onderdelen van de website van Icon Amsterdam namaken.</summary>
@@ -168,6 +182,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Voortgang 1 (week 2)
 
 <details>
+
   <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
 
   ### Stand van zaken
@@ -177,20 +192,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  We hadden allemaal vragen bedacht die we wouden stellen, mijn vragen waren:
+  - Ik wist niet zeker, maar mogen we id's gebruiken?
+  - Hoe kan ik ervoor zorgen dat ik een overzichtelijke navigatie balk krijg?
+  - Waarom lukt het mij niet om plaatjes naast elkaar te zetten?
+  - Mijn website heeft meerdere iconen, moeten deze exact hetzelfde zijn als de iconen van de website die ik namaak.
 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  Ik heb enorm veel dingen geleerd, afbeeldingen plaatsen, algemen betere html code.
+  - Ik moet in totaal 5 pagina's maken, 
 
 </details>
 
@@ -206,6 +219,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Bezig met de website namaken van Icon Amsterdam. Gaat prima ben de website correct aan het nacoderen.
 
   ### Agenda voor meeting
   samen met je groepje opstellen

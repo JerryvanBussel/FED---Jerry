@@ -1,7 +1,7 @@
-
 *, *::after, *::before {
   box-sizing:border-box;  
-  font-family:Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 * {
@@ -9,57 +9,88 @@
 	font-family:Arial, Helvetica, sans-serif;
 }
 
-
-
-
-
-
-/*********************/
 :root {
 	/* Start */
 	--color-text:#000000;
 	--color-background:#ffffff;
 
-	/* Header */
-	
-
-	/* Body */
-
-	/* Footer */
 	--footer-background:rgb(26 26 26);
 }
 
+p {
+	max-width: 430px;
+	height: auto;
+}
+
+main img{
+	max-width: 430px;
+	height: auto;
+}
 
 
+header {
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+
+	position: sticky;
+	top: 0;
+	background-color: white;
+
+}
 
 nav {
+	position:fixed;
+	inset: 0 0 0 0;
+	translate:0 -100%;
+	transition:0.5s;
+}
+  
+
+nav.toonMenu {
+	translate: 0;
+} 
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+ul:nth-of-type(1) {
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
-	/* Weet niet zeker of dit kan */
+
 	padding: 10px;
 	
 	background-color:var(--color-background);
 
 }
 
-nav img {
+ul li:nth-last-of-type(1) img {
 	justify-content: center;
 	width: 120px;
 	height: auto;
 
 }
 
-nav a {
+li:nth-last-of-type(1) a {
 	margin: 10px;
 
 }
 
 body section :nth-of-type(1) {
-	width: 670px;
 	height: auto;
 }
 
+/*
 ul li img :nth-of-type(1) {
 	display: flex;
 
